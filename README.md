@@ -12,3 +12,7 @@ Py-Chess is a project by to friends who just like to code in their freetime.
 
 - numpy
 - pandas
+
+#### Possible plans in the future
+
+- create a ML algorithm to play as AI
