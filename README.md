@@ -4,7 +4,7 @@
     </br>
 </h1>
 
-Py-Chess is a project by to friends who just like to code in their freetime.
+Py-Chess is a project by two friends who just like to code in their freetime.
 
 ![Image](./images/image.png)
 
