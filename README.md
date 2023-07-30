@@ -8,11 +8,15 @@ Py-Chess is a project by two friends who just like to code in their freetime.
 
 ![Image](./images/image.png)
 
-#### Required pip-modules
+## Installation
 
-- numpy
-- pandas
+nstall python requirements
+`$ python3 -m pip install -r requirements.txt`
 
-#### Possible plans in the future
+> Tip: use a python venv
+> `python3 -m venv .venv`
+> `source .venv/bin/activate`
+
+## Possible plans in the future
 
 - create a ML algorithm to play as AI
